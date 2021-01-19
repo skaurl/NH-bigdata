@@ -6,8 +6,8 @@
 
 # Result
 <div>
-  <img src="https://user-images.githubusercontent.com/55614265/103460234-0158f500-4d58-11eb-8583-93dec1cee94c.png">
-  <img src="https://user-images.githubusercontent.com/55614265/103460232-fe5e0480-4d57-11eb-86a8-3f9c42158186.png">
+  <img src="https://user-images.githubusercontent.com/55614265/104973768-24aec000-5a39-11eb-93a6-30afa263b3b9.png">
+  <img src="https://user-images.githubusercontent.com/55614265/104973764-21b3cf80-5a39-11eb-80b5-3c1e1dff7ea6.png">
 </div>
 
 # Setting
